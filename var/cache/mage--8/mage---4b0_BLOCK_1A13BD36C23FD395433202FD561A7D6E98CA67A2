@@ -1,0 +1,695 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1588461693;s:6:"expire";i:1588548093;s:4:"tags";s:33:"4b0_CAT_P,4b0_BLOCK_HTML,4b0_MAGE";}
+
+        <div style="margin-bottom: 0;" class="owl-button-top above-padding below-padding block widget block-new-products grid">
+        <div class="page-title-main">
+            <strong role="heading" aria-level="2">New Products</strong>
+        </div>
+        <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <div class="slider-outer">
+                    <ol style="margin-bottom: 0;" class="product-widget-slider products list items product-items widget-new-grid">
+                                                                            <li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/magento/mitchel.html" class="product-item-photo ">
+                                        
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://localhost/magento/pub/media/catalog/product\cache\f073062f50e48eb0f0998593e568d857\//m/i/mitchel_1.1_3.jpg"
+            width="240"
+            height="300"
+            alt="Mitchel"/></span>
+</span>
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/magento\/wishlist\/index\/add\/","data":{"product":"285","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/magento\/catalog\/product_compare\/add\/","data":{"product":"285","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Mitchel"
+                                           href="http://localhost/magento/mitchel.html"
+                                           class="product-item-link">
+                                               Mitchel                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="285">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-285-widget-new-grid"                data-price-amount="123"
+        data-price-type="finalPrice"
+        class="price-wrapper ">
+        <span class="price">USD123.00</span>    </span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-mage-init='{"redirectUrl":{"url":"http://localhost/magento/mitchel.html?options=cart"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/magento/mattia.html" class="product-item-photo ">
+                                        
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://localhost/magento/pub/media/catalog/product\cache\f073062f50e48eb0f0998593e568d857\//m/a/mattia_1.1_1.jpg"
+            width="240"
+            height="300"
+            alt="Mattia"/></span>
+</span>
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/magento\/wishlist\/index\/add\/","data":{"product":"275","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/magento\/catalog\/product_compare\/add\/","data":{"product":"275","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Mattia"
+                                           href="http://localhost/magento/mattia.html"
+                                           class="product-item-link">
+                                               Mattia                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="275">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-275-widget-new-grid"                data-price-amount="34"
+        data-price-type="finalPrice"
+        class="price-wrapper ">
+        <span class="price">USD34.00</span>    </span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-mage-init='{"redirectUrl":{"url":"http://localhost/magento/mattia.html?options=cart"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/magento/mathias.html" class="product-item-photo ">
+                                        
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://localhost/magento/pub/media/catalog/product\cache\f073062f50e48eb0f0998593e568d857\//m/a/mathias_1.1_1.jpg"
+            width="240"
+            height="300"
+            alt="Mathias"/></span>
+</span>
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/magento\/wishlist\/index\/add\/","data":{"product":"268","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/magento\/catalog\/product_compare\/add\/","data":{"product":"268","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Mathias"
+                                           href="http://localhost/magento/mathias.html"
+                                           class="product-item-link">
+                                               Mathias                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="268">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-268-widget-new-grid"                data-price-amount="123"
+        data-price-type="finalPrice"
+        class="price-wrapper ">
+        <span class="price">USD123.00</span>    </span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-mage-init='{"redirectUrl":{"url":"http://localhost/magento/mathias.html?options=cart"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/magento/maaike.html" class="product-item-photo ">
+                                        
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://localhost/magento/pub/media/catalog/product\cache\f073062f50e48eb0f0998593e568d857\//m/a/maaike_3.1_1.jpg"
+            width="240"
+            height="300"
+            alt="Maaike"/></span>
+</span>
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/magento\/wishlist\/index\/add\/","data":{"product":"258","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/magento\/catalog\/product_compare\/add\/","data":{"product":"258","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Maaike"
+                                           href="http://localhost/magento/maaike.html"
+                                           class="product-item-link">
+                                               Maaike                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="258">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-258-widget-new-grid"                data-price-amount="230"
+        data-price-type="finalPrice"
+        class="price-wrapper ">
+        <span class="price">USD230.00</span>    </span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-mage-init='{"redirectUrl":{"url":"http://localhost/magento/maaike.html?options=cart"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/magento/yago.html" class="product-item-photo ">
+                                        
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://localhost/magento/pub/media/catalog/product\cache\f073062f50e48eb0f0998593e568d857\//y/s/ysl17115-1.1.jpg"
+            width="240"
+            height="300"
+            alt="Yago"/></span>
+</span>
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/magento\/wishlist\/index\/add\/","data":{"product":"75","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/magento\/catalog\/product_compare\/add\/","data":{"product":"75","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Yago"
+                                           href="http://localhost/magento/yago.html"
+                                           class="product-item-link">
+                                               Yago                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="75">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-75-widget-new-grid"                data-price-amount="68"
+        data-price-type="finalPrice"
+        class="price-wrapper ">
+        <span class="price">USD68.00</span>    </span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-mage-init='{"redirectUrl":{"url":"http://localhost/magento/yago.html?options=cart"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/magento/sami.html" class="product-item-photo ">
+                                        
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://localhost/magento/pub/media/catalog/product\cache\f073062f50e48eb0f0998593e568d857\//s/9/s9983-1.1.jpg"
+            width="240"
+            height="300"
+            alt="Sami"/></span>
+</span>
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/magento\/wishlist\/index\/add\/","data":{"product":"74","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/magento\/catalog\/product_compare\/add\/","data":{"product":"74","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Sami"
+                                           href="http://localhost/magento/sami.html"
+                                           class="product-item-link">
+                                               Sami                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="74">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-74-widget-new-grid"                data-price-amount="123"
+        data-price-type="finalPrice"
+        class="price-wrapper ">
+        <span class="price">USD123.00</span>    </span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-mage-init='{"redirectUrl":{"url":"http://localhost/magento/sami.html?options=cart"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/magento/johans.html" class="product-item-photo ">
+                                        
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://localhost/magento/pub/media/catalog/product\cache\f073062f50e48eb0f0998593e568d857\//s/9/s9951-1.1.jpg"
+            width="240"
+            height="300"
+            alt="Johans"/></span>
+</span>
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/magento\/wishlist\/index\/add\/","data":{"product":"73","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/magento\/catalog\/product_compare\/add\/","data":{"product":"73","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Johans"
+                                           href="http://localhost/magento/johans.html"
+                                           class="product-item-link">
+                                               Johans                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="73">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-73-widget-new-grid"                data-price-amount="123"
+        data-price-type="finalPrice"
+        class="price-wrapper ">
+        <span class="price">USD123.00</span>    </span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-mage-init='{"redirectUrl":{"url":"http://localhost/magento/johans.html?options=cart"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/magento/frank.html" class="product-item-photo ">
+                                        
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://localhost/magento/pub/media/catalog/product\cache\f073062f50e48eb0f0998593e568d857\//s/9/s9893m-1.1.jpg"
+            width="240"
+            height="300"
+            alt="Frank"/></span>
+</span>
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/magento\/wishlist\/index\/add\/","data":{"product":"72","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/magento\/catalog\/product_compare\/add\/","data":{"product":"72","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Frank"
+                                           href="http://localhost/magento/frank.html"
+                                           class="product-item-link">
+                                               Frank                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="72">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-72-widget-new-grid"                data-price-amount="123"
+        data-price-type="finalPrice"
+        class="price-wrapper ">
+        <span class="price">USD123.00</span>    </span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-post='{"action":"http:\/\/localhost\/magento\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw%2C%2C\/product\/72\/","data":{"product":"72","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/magento/daniel.html" class="product-item-photo ">
+                                        
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://localhost/magento/pub/media/catalog/product\cache\f073062f50e48eb0f0998593e568d857\//s/6/s6299-1.1_1.jpg"
+            width="240"
+            height="300"
+            alt="Daniel"/></span>
+</span>
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/magento\/wishlist\/index\/add\/","data":{"product":"71","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/magento\/catalog\/product_compare\/add\/","data":{"product":"71","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Daniel"
+                                           href="http://localhost/magento/daniel.html"
+                                           class="product-item-link">
+                                               Daniel                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="71">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-71-widget-new-grid"                data-price-amount="0"
+        data-price-type="finalPrice"
+        class="price-wrapper ">
+        <span class="price">USD0.00</span>    </span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-mage-init='{"redirectUrl":{"url":"http://localhost/magento/daniel.html?options=cart"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/magento/chicho.html" class="product-item-photo ">
+                                        
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://localhost/magento/pub/media/catalog/product\cache\f073062f50e48eb0f0998593e568d857\//s/0/s0154-2.1_1.jpg"
+            width="240"
+            height="300"
+            alt="Chicho"/></span>
+</span>
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/magento\/wishlist\/index\/add\/","data":{"product":"68","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/magento\/catalog\/product_compare\/add\/","data":{"product":"68","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Chicho"
+                                           href="http://localhost/magento/chicho.html"
+                                           class="product-item-link">
+                                               Chicho                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="68">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-68-widget-new-grid"                data-price-amount="0"
+        data-price-type="finalPrice"
+        class="price-wrapper ">
+        <span class="price">USD0.00</span>    </span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-mage-init='{"redirectUrl":{"url":"http://localhost/magento/chicho.html?options=cart"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                            </li>                                            </ol>
+                </div>
+            </div>
+                    </div>
+    </div>
+    <script type="text/javascript" xml="space">
+        require(['jquery', 'bizkickowlcarousel'], function() {
+            jQuery(document).ready(function() {
+                jQuery(".product-widget-slider").owlCarousel({
+                    items: 5,
+                    itemsDesktop: [1199, 4],
+                    itemsDesktopSmall: [991, 4],
+                    itemsTablet: [767, 3],
+                    itemsTabletSmall: [639, 3],
+                    itemsMobile: [479, 2],
+                    pagination: false,
+                    navigationText: ["<div class='left-arrow'><i class='fa fa-angle-left'></i></div>", "<div class='right-arrow'><i class='fa fa-angle-right'></div>"],
+                    navigation: true,
+                });
+            });
+            jQuery(window).load(function() {
+                jQuery('.product-widget-slider .product-slider').show();
+            });
+        });
+    </script>

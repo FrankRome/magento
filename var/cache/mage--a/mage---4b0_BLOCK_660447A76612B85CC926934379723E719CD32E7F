@@ -1,0 +1,9 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1588461937;s:6:"expire";i:1588465537;s:4:"tags";s:84:"4b0_BLOCK_HTML,4b0_CAT_C,4b0_CAT_C_9,4b0_CAT_C_11,4b0_CAT_C_12,4b0_CAT_C_18,4b0_MAGE";}
+<nav class="navigation" role="navigation">
+    <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
+                    <li class = "level0 level-top ">
+                <a class = "level-top" href = "http://localhost/magento/">
+                    Home                </a>
+            </li>
+                <li  class="level0 nav-1 first level-top"><a href="http://localhost/magento/damas.html"  class="level-top" ><span>Mujeres</span></a></li><li  class="level0 nav-2 level-top"><a href="http://localhost/magento/caballeros.html"  class="level-top" ><span>Hombres</span></a></li><li  class="level0 nav-3 level-top"><a href="http://localhost/magento/tienda.html"  class="level-top" ><span>Tienda</span></a></li><li  class="level0 nav-4 active last level-top"><a href="http://localhost/magento/simulacion.html"  class="level-top" ><span>Try-On</span></a></li>    </ul>
+</nav>
